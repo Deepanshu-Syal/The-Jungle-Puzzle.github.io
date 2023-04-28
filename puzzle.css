@@ -7,19 +7,21 @@ body {
 }
 
 #board {
-    width: 400px;
-    height: 400px;
-    border: 2.5px solid  black;
+    width: 25%;
+    aspect-ratio : 1 / 1;
+    border:0px solid  black;
     box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
     margin: 0 auto;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
 }
 #pieces {
     background-color: white;
-    width: 1040px;
-    height: 160px;
+    /* width: 1040px; */
+    /* height: 160px; */
+    width: 60%;
+    aspect-ratio : 13 / 2;
     border: 2px solid brown;
 
     margin: 0 auto;
@@ -28,14 +30,19 @@ body {
 }
 
 #board img {
-    width: 79px;
-    height: 79px;
-    border: 0.5px solid lightblue;
+    /* width: 79px; */
+    /* height: 79px; */
+    width:19.6%;
+    aspect-ratio: 1/1;
+    /* border: 1% solid lightblue; */
+    background-color: lightblue;
+    padding: 1px 0.2%; /* set padding to simulate border */
 }
 #pieces img {
-    width: 79px;
-    height: 79px;
-    border: 0.5px solid lightblue;
+    width: 7.59230769230%;
+    aspect-ratio: 1/1;
+    background-color: lightblue;
+    padding: 1px 0.05%; /* set padding to simulate border */
 }
 .HintButtons{
     display: flex;
