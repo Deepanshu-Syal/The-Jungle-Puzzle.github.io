@@ -17,7 +17,7 @@ To run this project, you need to have the following software installed:
 2. Play the puzzle!
 
 ## Solution 
-1. The Solution image is ![alt text](image_url)
+1. The Solution image is ![image](https://github.com/Deepanshu-Syal/The-Jungle-Puzzle.github.io/blob/main/JungleSolution.jpeg)
 
 ## Credits
 
