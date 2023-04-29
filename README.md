@@ -1,6 +1,6 @@
 # Jigsaw Puzzle
 
-This project is a web-based jigsaw puzzle game that allows users to upload an image and turn it into a customizable puzzle. Users can select the number of puzzle pieces, ranging from 16 to 500 pieces, and play the puzzle online.
+This project is a web-based jigsaw like  puzzle game that allows users to  play the puzzle online. The user has to arrange the pieces and turn it into a meaningful picture.
 
 ## Getting Started
 
@@ -8,36 +8,15 @@ This project is a web-based jigsaw puzzle game that allows users to upload an im
 
 To run this project, you need to have the following software installed:
 
-- Node.js
-- npm (Node Package Manager)
-
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/jigsaw-puzzle.git`
-2. Change into the project directory: `cd jigsaw-puzzle`
-3. Install the project dependencies: `npm install`
+- Any IDE
+- Browser
 
 ### Usage
 
-1. Start the server: `npm start`
-2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
-3. Upload an image and select the number of puzzle pieces
-4. Play the puzzle!
-
-## Contributing
-
-If you want to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b new-feature`
-3. Make your changes and commit them: `git commit -am 'Add new feature'`
-4. Push to the branch: `git push origin new-feature`
-5. Create a pull request
+1. Open your browser and navigate to https://deepanshu-puzzle-game.netlify.app/
+2. Play the puzzle!
 
 ## Credits
 
-This project was created by [your-name](https://github.com/your-username).
+This project was created by [Deepanshu](https://github.com/Deepanshu-Syal).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
