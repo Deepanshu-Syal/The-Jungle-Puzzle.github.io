@@ -16,7 +16,11 @@ To run this project, you need to have the following software installed:
 1. Open your browser and navigate to https://deepanshu-puzzle-game.netlify.app/
 2. Play the puzzle!
 
+## Solution 
+1. The Solution image is ![alt text](image_url)
+
 ## Credits
 
 This project was created by [Deepanshu](https://github.com/Deepanshu-Syal).
+
 
