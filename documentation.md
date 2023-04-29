@@ -1,7 +1,7 @@
-# Project Overview
+## Project Overview
 The Jungle Puzzle is a game that requires players to put together pieces of an image or shape to form a complete picture. The objective of this project is to create a digital version of a jigsaw puzzle game using HTML , CSS and Javascript.
 
-# Project Requirements
+## Project Requirements
 To build puzzle game, i have taken care of the following requirements:
 1. User Interface
    - The game  has an intuitive and user-friendly interface. Users are able to move the pieces of puzzle with the help of mouse.
